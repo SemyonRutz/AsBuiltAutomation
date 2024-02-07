@@ -1,5 +1,5 @@
 **Compatibility**
-This script is compatible with AutoCAD Map 3D.
+Compatible with various AutoCAD versions, ensuring accessibility for a wide range of users.
 
 **Description**
 This file contains a custom AutoCAD LISP tool designed to facilitate the selection of dimensions based on user-defined criteria. The tool prompts the user to enter a keyword or phrase, and it selects all dimensions containing that keyword or phrase within their text.
