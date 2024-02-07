@@ -1,13 +1,12 @@
-Compatibility:
+**Compatibility**
 This script is compatible with AutoCAD Map 3D.
 
-Description:
+**Description**
 Managing GPS utility drawings within AutoCAD Map 3D often get tedious, particularly when dealing with the creation of numerous polylines. This script is user-friendly designed to streamline polyline generation, eliminating the hassle associated with manual creation.
 
 
 
-How to Use:
-Load the Script:
+**How to Use**
 
 - Open AutoCAD Map 3D.
 - Input APPLOAD in the AutoCAD command line.
@@ -21,12 +20,12 @@ Load the Script:
 
 
 
-Usage Tips:
+**Usage Tips**
 Ensure all GPS points are accurately represented in your drawing before running the script.
 Review the resulting polyline to verify its alignment and integrity with respect to the GPS points.
 
-Notes:
+**Notes**
 It is recommended to save your work before running the script to avoid any unintended modifications to your drawing.
 
-Contribution:
+**Contributions:**
 Contributions to enhance the functionality or address any issues encountered with the script are welcome. Feel free to fork the repository and submit pull requests.
