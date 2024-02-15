@@ -1,5 +1,5 @@
 **Scope of usage**
-For Southwest Gas formatting purposes, all parts need to be calculated to obtain a total footage. This includes counting pipe footage along with pipe risers, where a 2" riser equals 2 feet and a 1" riser equals 3 feet.
+For gas pipeline formatting purposes, all parts need to be calculated to obtain a total footage. This includes counting pipe footage along with pipe risers, where a 2" riser equals 2 feet and a 1" riser equals 3 feet.
 
 **Description**
 This Python script facilitates accurate test stamp calculations, reducing the likelihood of human error in the process.
