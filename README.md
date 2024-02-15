@@ -9,7 +9,7 @@ Explore the repository to find a variety of scripts tailored to elevate your Aut
 ## Features
 
 - **LISP Automation:** Benefit from the efficiency of LISP codes to automate repetitive tasks and boost your drawing productivity.
-- **Python Codes for South West Gas Drawings:** If you're working with South West Gas drawings, discover a set of Python codes specifically designed to assist you in your projects.
+- **Python Codes for Gas Pipeline Drawings:** If you're working with gas pipiline drawings, discover a set of Python codes specifically designed to assist you in your projects.
 
 ## Contributing
 
